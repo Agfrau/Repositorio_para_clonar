@@ -3,3 +3,4 @@ peras
 bananas
 mandarinas
 naranjas
+duraznos
